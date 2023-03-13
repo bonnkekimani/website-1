@@ -1,0 +1,107 @@
+nav{
+    background-color:#f1e8bd;
+    height:auto;
+    width:auto;
+    font-style: italic;
+}
+label.logo{
+    font-size: 50px;
+    color:	#8c321a;
+    text-align: left;
+    line-height: 100px;
+    font-weight: bold;
+    }
+
+ul{
+    float: right;
+    margin-right: 10px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 30px;
+    font-size: 40px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: rgb(29, 115, 190);
+}
+
+nav ul li a{
+    color:#8c321a;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+body{
+    background-image: url(images/pexels-johannes-plenio-1146708.jpg);
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+    nav img{
+        margin-right: auto;
+        margin-left: auto;
+        float: left;
+        display: block;    
+        width:100px ;
+        height: 80px;
+    }
+
+    p{
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align:center;
+        color: white;
+        margin-right: auto;
+        margin-left: auto;
+        width: 800px;
+    }
+
+    h1{
+        font-size: 50px;
+        font-weight:bold;
+        font-style: italic;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align:center;
+        color:white;
+        margin-right: auto;
+        margin-left: auto;
+        
+    }
+
+     img{
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
+        text-align: center;    
+        width: 600px;
+        height:600px;
+        margin-top:20px;
+    }
+
+    button{
+        font-size: 40px;
+        font-weight: bold;
+        background-color:#f1e8bd;
+        float: right;
+    }
+
+    button:hover{
+        background-color: rgb(29, 115, 190);
+    }
+
+    footer{
+        font-size: 30px;
+        background-color: #f1e8bd;
+        color: white;
+        text-align: center;
+        line-height: 100px;
+        font-weight: bold;
+        margin-bottom: 100px;
+        }
+    

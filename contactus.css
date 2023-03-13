@@ -1,0 +1,52 @@
+#form{
+    padding-top: 30%;
+    font-size: larger;
+}
+#Text{
+    color: #3e1901;
+    padding-left: 20%;
+    font-size: x-large;
+    text-align: center;
+}
+input[type=text], select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=email],select{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit],select{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+  .fa-facebook {
+    background: #f6f7f9;
+    color: rgba(253, 98, 1, 0.895);
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #f6f9fa;
+    color: rgba(253, 98, 1, 0.895);
+  }
+  .fa-instagram{
+    background: #f6f9fa;
+    color: rgba(253, 98, 1, 0.895);
+  }
