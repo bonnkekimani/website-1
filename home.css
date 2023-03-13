@@ -1,0 +1,40 @@
+nav{
+    background-color:#f1e8bd;
+    height:auto;
+    width:auto;
+    font-style: italic;
+}
+label.logo{
+    font-size: 50px;
+    color:	#8c321a;
+    text-align: left;
+    line-height: 100px;
+    font-weight: bold;
+    }
+
+ul{
+    float: right;
+    margin-right: 10px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 30px;
+    font-size: 40px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+nav ul li a{
+    color:#8c321a;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+body{
+    background-image: url("pexels-johannes-plenio-1146708.jpg");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-attachment: fixed;
+    background-size: cover;
+    }
